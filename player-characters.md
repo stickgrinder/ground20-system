@@ -53,7 +53,7 @@ Each skill has its own specialities. Taking the "Specialist" feat allow a charac
 
 **Optional**: instead of +2 you get advantage in the style of 5e (highest of 2d20).
 
-* **Athletics**: ,acrobatics, endurance, fitness, reflexes
+* **Athletics**: acrobatics, endurance, fitness, reflexes
 * **Awereness**: concentration, intuition, orientation, perception
 * **Cunning**:  disguise, sneak, streetwise, thievery
 * **Fight**: blades, defense, shoot, unarmed
@@ -65,3 +65,19 @@ Each skill has its own specialities. Taking the "Specialist" feat allow a charac
 
 @TODO: understand feats archetypes and jot down basic schemas so more feats can be written down with ease
 
+Feats represent things your character excel into, be it for natural talent, remarkable training, or access to  extraordinary sources of knowledge and power.
+
+Each character gain one feat every level. The same feat can be taken more than once: at times you can stack the grant bonus; other times you must chose some other aspect of your character to apply the talent to.
+
+## Talented
+
+Chose a speciality. You can always take 10 to checks on that speciality, even under pressure. You can apply this feat twice to the same speciality so that you can always take 20, even under pressure.
+
+## Specialist
+
+Chose a speciality you are not trained into. When GM calls a check on that speciality, you always roll with advantage or ignore a disadvantage, if it applies. You must select a different speciality each time you select this feat.
+
+## Domain
+
+Name a secret discipline, occult knowledge, otherworldly ability or supernatural power that fits your character and the setting. You can now perform incredible deeds related to your new domain, with a successful Prodigy [effect-driven check]().  
+Note that your [table authority]() will always have veto on the domain you choice. If the GM is your table authority, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
