@@ -15,6 +15,16 @@ Should Joe get involved in a car chase, while driving a stolen taxi. He can sure
 
 Mind that no driving/piloting skills appears in Ground20 skills list. That's what descriptor is there for: filling gaps.
 
+## Boon
+
+At character creation choose a single boon among the following ones:
+
+* **2 additional hit points**: for this single time you gain 2 additional hit points.
+* **2 additional skills points per level**: each time you advance one level you gain 2 additional skill points to spend among your skills.
+* **One additional feat**: for this single time you gain one addtional feat.
+
+In Epic and Legendary games, redo the selection at levels 11 and 21.
+
 ## Abilities
 
 All abilities average at 0 and go from -6 to +6 max (at legendary level).
@@ -30,6 +40,12 @@ Initial values: distribute the modifiers to the abilities of your choice
 * Heroic game: +2, +1, +1, -1, -2
 * Epic game: +3, +2, +1, -1
 * Legendary game: +4, +3, +1, +1, -1
+
+You gain one additional point to place at your disposal at levels 6 (Heroic games), 11, 16 (Epic games), 21 and 26 (Legendary games).
+
+## Hit points
+
+Each character starts with 6+CON hit points. 2 additional hit points may be added as a boon at levels 1, 11, 21.
 
 ## Skills
 
@@ -77,7 +93,20 @@ Chose a speciality. You can always take 10 to checks on that speciality, even un
 
 Chose a speciality you are not trained into. When GM calls a check on that speciality, you always roll with advantage or ignore a disadvantage, if it applies. You must select a different speciality each time you select this feat.
 
-## Domain
+## Dominus
 
-Name a secret discipline, occult knowledge, otherworldly ability or supernatural power that fits your character and the setting. You can now perform incredible deeds related to your new domain, with a successful Prodigy [effect-driven check]().  
+Name a secret discipline, occult knowledge, otherworldly ability or supernatural power that fits your character and the setting. You can now perform incredible deeds related to your new domain, with a successful Prodigy [effect-driven check]().
+
+Example domains are  _Charm_, _Diabolism_, _Divination_, _Evil eye_, _Hacking_, _Psionics_, _Spiritualism_, _Technology_, _Transmutation_.
+
 Note that your [table authority]() will always have veto on the domain you choice. If the GM is your table authority, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
+
+## Fighter
+
+Name a special action, fighting technique, maneuveur or stunt that you can perform in combat and fits your character and the setting. You can now strike fear in combat, with a successful Fight [outcome-driven check]().
+
+Example combat deeds are  _Barbaric fury_, _Holy smite_, _Unarmed combat_, _Deflect shots_, _Two handed fighting_, _Stunning strike_, _Impair movement_, _Impose movement_, _Dodge attacks_, _Targeted shot_.
+
+Note that your [table authority]() will always have veto on the deed you choice. If the GM is your table authority, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
+
+
