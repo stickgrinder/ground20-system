@@ -99,7 +99,7 @@ Name a secret discipline, occult knowledge, otherworldly ability or supernatural
 
 Example domains are  _Charm_, _Diabolism_, _Divination_, _Evil eye_, _Hacking_, _Psionics_, _Spiritualism_, _Technology_, _Transmutation_.
 
-Note that your [table authority]() will always have veto on the domain you choice. If the GM is your table authority, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
+Note that your [TA]() will always have veto on the domain you choice. If the GM is your TA, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
 
 ## Fighter
 
@@ -107,6 +107,4 @@ Name a special action, fighting technique, maneuveur or stunt that you can perfo
 
 Example combat deeds are  _Barbaric fury_, _Holy smite_, _Unarmed combat_, _Deflect shots_, _Two handed fighting_, _Stunning strike_, _Impair movement_, _Impose movement_, _Dodge attacks_, _Targeted shot_.
 
-Note that your [table authority]() will always have veto on the deed you choice. If the GM is your table authority, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
-
-
+Note that your [TA]() will always have veto on the deed you choice. If the GM is your TA, she should provide a list of available disciplines or clearly state the mood of the setting and roll with it.
